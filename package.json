@@ -4,7 +4,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "storybook": "start-storybook",
+    "storybook": "start-storybook --port 6006",
+    "loki": "loki",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",

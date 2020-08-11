@@ -1,5 +1,4 @@
 import { Button } from '@storybook/angular/demo';
-import 'loki/configure-react'
 
 export default { title: 'My Button' }
 
